@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "id": "designcraft-illustrator-style",
+  "name": "Illustrator-style for DesignCraft",
+  "version": "1.0.0",
+  "testedWith": [
+    "DesignCraft 0.17.2 / Windows 11"
+  ],
+  "license": "MIT",
+  "shortcutSetName": "Illustrator-style",
+  "settings": {
+    "brightness": "MediumDark",
+    "frameEdges": false,
+    "controlBar": true,
+    "toolsDoubleColumn": true,
+    "dockTab": "properties",
+    "openPanel": null,
+    "floating": [],
+    "docking": {
+      "root": {
+        "Split": {
+          "axis": "Horizontal",
+          "size": {
+            "FixedSecond": 297.0
+          },
+          "first": {
+            "Tabs": {
+              "panels": [
+                "canvas"
+              ],
+              "active": 0
+            }
+          },
+          "second": {
+            "Dock": {
+              "side": "End",
+              "columns": [
+                {
+                  "groups": [
+                    {
+                      "panels": [
+                        "properties",
+                        "links"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "layers"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    }
+                  ],
+                  "width": 260.0,
+                  "iconic": false,
+                  "iconic_width": 37.0
+                },
+                {
+                  "groups": [
+                    {
+                      "panels": [
+                        "stroke",
+                        "color",
+                        "swatches",
+                        "gradient"
+                      ],
+                      "active": 3,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "align",
+                        "pathfinder"
+                      ],
+                      "active": 1,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "effects"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "paragraph"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    }
+                  ],
+                  "width": 260.0,
+                  "iconic": true,
+                  "iconic_width": null
+                }
+              ]
+            }
+          }
+        }
+      },
+      "floating": []
+    },
+    "dockingHidden": [
+      [
+        "pages",
+        {
+          "floating": null,
+          "anchor": "properties",
+          "placement": {
+            "Tab": {
+              "before": "properties"
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "paragraphStyles",
+        {
+          "floating": null,
+          "anchor": "characterStyles",
+          "placement": {
+            "Tab": {
+              "before": null
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "characterStyles",
+        {
+          "floating": null,
+          "anchor": "textWrap",
+          "placement": {
+            "Group": {
+              "below": true
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "textWrap",
+        {
+          "floating": null,
+          "anchor": "paragraph",
+          "placement": {
+            "Group": {
+              "below": true
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ]
+    ],
+    "autoCollapseIconicPanels": false,
+    "dockExpanded": false,
+    "iconGroups": [
+      [
+        "pages",
+        "layers",
+        "links"
+      ],
+      [
+        "stroke",
+        "color"
+      ],
+      [
+        "swatches"
+      ],
+      [
+        "effects"
+      ],
+      [
+        "paragraph"
+      ],
+      [
+        "textWrap"
+      ],
+      [
+        "characterStyles",
+        "paragraphStyles"
+      ],
+      [
+        "gradient"
+      ]
+    ],
+    "taskBar": true,
+    "taskBarPin": null,
+    "workspace": "Illustrator-style"
+  },
+  "workspace": {
+    "name": "Illustrator-style",
+    "controlBar": true,
+    "taskBar": true,
+    "taskBarPin": null,
+    "toolsDoubleColumn": true,
+    "dockTab": "properties",
+    "dockExpanded": false,
+    "openPanel": null,
+    "floating": [],
+    "docking": {
+      "root": {
+        "Split": {
+          "axis": "Horizontal",
+          "size": {
+            "FixedSecond": 297.0
+          },
+          "first": {
+            "Tabs": {
+              "panels": [
+                "canvas"
+              ],
+              "active": 0
+            }
+          },
+          "second": {
+            "Dock": {
+              "side": "End",
+              "columns": [
+                {
+                  "groups": [
+                    {
+                      "panels": [
+                        "properties",
+                        "links"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "layers"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    }
+                  ],
+                  "width": 260.0,
+                  "iconic": false,
+                  "iconic_width": 37.0
+                },
+                {
+                  "groups": [
+                    {
+                      "panels": [
+                        "stroke",
+                        "color",
+                        "swatches",
+                        "gradient"
+                      ],
+                      "active": 3,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "align",
+                        "pathfinder"
+                      ],
+                      "active": 1,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "effects"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    },
+                    {
+                      "panels": [
+                        "paragraph"
+                      ],
+                      "active": 0,
+                      "minimized": false,
+                      "height": null
+                    }
+                  ],
+                  "width": 260.0,
+                  "iconic": true,
+                  "iconic_width": null
+                }
+              ]
+            }
+          }
+        }
+      },
+      "floating": []
+    },
+    "dockingHidden": [
+      [
+        "pages",
+        {
+          "floating": null,
+          "anchor": "properties",
+          "placement": {
+            "Tab": {
+              "before": "properties"
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "paragraphStyles",
+        {
+          "floating": null,
+          "anchor": "characterStyles",
+          "placement": {
+            "Tab": {
+              "before": null
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "characterStyles",
+        {
+          "floating": null,
+          "anchor": "textWrap",
+          "placement": {
+            "Group": {
+              "below": true
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ],
+      [
+        "textWrap",
+        {
+          "floating": null,
+          "anchor": "paragraph",
+          "placement": {
+            "Group": {
+              "below": true
+            }
+          },
+          "size": null,
+          "stack": null,
+          "sibling": [],
+          "group": {
+            "minimized": false,
+            "height": null,
+            "column": {
+              "side": "End",
+              "width": 260.0,
+              "iconic": true,
+              "iconic_width": 150.0
+            }
+          }
+        }
+      ]
+    ],
+    "iconGroups": [
+      [
+        "pages",
+        "layers",
+        "links"
+      ],
+      [
+        "stroke",
+        "color"
+      ],
+      [
+        "swatches"
+      ],
+      [
+        "effects"
+      ],
+      [
+        "paragraph"
+      ],
+      [
+        "textWrap"
+      ],
+      [
+        "characterStyles",
+        "paragraphStyles"
+      ],
+      [
+        "gradient"
+      ]
+    ],
+    "hiddenMenuItems": []
+  },
+  "shortcuts": {
+    "app.placeDialog": "Cmd+Shift+P",
+    "layout.pages.insert": "",
+    "object.lock": "Cmd+2",
+    "object.unlockAll": "Cmd+Alt+2",
+    "path.join": "Cmd+J",
+    "tool.select {\"tool\":\"contentCollector\"}": "",
+    "tool.select {\"tool\":\"contentPlacer\"}": "",
+    "tool.select {\"tool\":\"gap\"}": "",
+    "tool.select {\"tool\":\"page\"}": "Shift+O",
+    "tool.select {\"tool\":\"shear\"}": "",
+    "transform.again": "Cmd+D",
+    "view.goToPage": "",
+    "view.smartGuides": "Cmd+U",
+    "window.panel {\"panel\":\"gradient\"}": "Cmd+F9",
+    "window.panel {\"panel\":\"pathfinder\"}": "Cmd+Shift+F9",
+    "window.panel {\"panel\":\"stroke\"}": "Cmd+F10"
+  }
+}

@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+ui.json
+test-output/
+dist/
+.DS_Store
+Thumbs.db
