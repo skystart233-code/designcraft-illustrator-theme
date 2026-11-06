@@ -52,6 +52,8 @@ Restore reproduces the complete saved UI configuration, including its original f
 
 This is a configuration preset, not a replacement drawing engine. It does not add Shape Builder, mesh gradients or a full Appearance stack. The Page tool remains a page tool, and DesignCraft's `D` shortcut still means no fill with a black stroke. B, O and U are cleared because their publishing-tool meanings differ from Illustrator.
 
+**Illustrator's Ctrl+Y Outline mode is unavailable in DesignCraft 0.17.2.** Ctrl+H displays frame edges while retaining fills; it is not a pure outline view. Use the Layers panel to select obscured objects, or temporarily hide objects above them.
+
 Common changes: **Ctrl+2** Lock; **Ctrl+Alt+2** Unlock All; **Ctrl+D** Transform Again; **Ctrl+J** Join; **Ctrl+Shift+P** Place; **Ctrl+U** Smart Guides; **Shift+O** Page tool. Existing matching defaults such as V/A/P, F6/F7 and Shift+F7 are retained. See the [full table](README.md#快捷键).
 
 ## Tests
